@@ -20,9 +20,9 @@
 # About Us
 <p>
  <img align="right" width="350" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" alt="Coding gif" />
- ✌️ &emsp; Passionate about programming, game engines, and rendering technologies.<br/><br/>
- 🎮 &emsp; Dedicated to pushing the boundaries of real-time graphics and game development.<br/><br/>
- 💡 &emsp; Innovating with modern tools, frameworks, and open-source contributions.<br/><br/>
+ ✌️ &emsp; Enthusiasts of programming, game engines, and frameworks.<br/><br/>
+ 🎮 &emsp; Advancing real-time graphics and game development.<br/><br/>
+ 💡 &emsp; Innovating with modern tools and open-source tech.<br/><br/>
  🌎 &emsp; Explore our work on our official website: <a href="https://stellution.com">stellution.com</a>.<br/><br/>
  📧 &emsp; Contact us anytime: <a href="mailto:contact@stellution.com">contact@stellution.com</a><br/><br/>
  💬 &emsp; Join the conversation on our <a href="https://discord.gg/7XKw6YQa76">Discord server</a>.<br/><br/>
