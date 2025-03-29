@@ -20,7 +20,6 @@
 # About Us
 <p>
  <img align="right" width="350" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" alt="Coding gif" />
-  
  ✌️ &emsp; Passionate about programming, game engines, and rendering technologies.<br/><br/>
  🎮 &emsp; Dedicated to pushing the boundaries of real-time graphics and game development.<br/><br/>
  💡 &emsp; Innovating with modern tools, frameworks, and open-source contributions.<br/><br/>
