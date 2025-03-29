@@ -24,9 +24,9 @@
  ✌️ &emsp; Passionate about programming, game engines, and rendering technologies.<br/><br/>
  🎮 &emsp; Dedicated to pushing the boundaries of real-time graphics and game development.<br/><br/>
  💡 &emsp; Innovating with modern tools, frameworks, and open-source contributions.<br/><br/>
- 🌎 &emsp; Explore our work on our official website: [stellution.com](https://stellution.com).<br/><br/>
- 📧 &emsp; Contact us anytime: [contact@stellution.com](mailto:contact@stellution.com)<br/><br/>
- 💬 &emsp; Join the conversation on our [Discord server](https://discord.gg/7XKw6YQa76).<br/><br/>
+ 🌎 &emsp; Explore our work on our official website: <a href="https://stellution.com">stellution.com</a>.<br/><br/>
+ 📧 &emsp; Contact us anytime: <a href="mailto:contact@stellution.com">contact@stellution.com</a><br/><br/>
+ 💬 &emsp; Join the conversation on our <a href="https://discord.gg/7XKw6YQa76">Discord server</a>.<br/><br/>
  🚀 &emsp; Follow our journey and stay updated on our latest projects!
 </p>
 
